@@ -1,0 +1,3 @@
+One of the functions of an Operating System, is to manage the storage.
+This is compeleted by conecting the the storage devices to the motherboard via SATA cable.
+With the storage connected to the motherboard, the OS can now have access to the SSD or HDD and manage the data within the drives.
