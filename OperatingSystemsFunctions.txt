@@ -6,3 +6,8 @@ With the storage connected to the motherboard, the OS can now have access to the
 Another function of the Operating System is to take care of the input and outputs of the computer. 
 This could be a few things it could be the audio input of a microphone when talking on the computer or it could be the input of a keyboard to be able to type on your PC.
 It also can control the audio output, by changing the volume of the sound coming from the speakers with the input of a keyboard or mouse.
+
+
+The last function of an Operating system I wanted to talk about is the Processor Management. 
+The purpose of this function is for the OS to tell the processor what todo and were to allocate the processing power.
+For example, if you have two programs working your processing power is divided but when you close a program your OS tells the processor that it can stop allocating power to that program and put it into another or the current one running.
