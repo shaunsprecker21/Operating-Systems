@@ -1,3 +1,8 @@
 One of the functions of an Operating System, is to manage the storage.
 This is compeleted by conecting the the storage devices to the motherboard via SATA cable.
 With the storage connected to the motherboard, the OS can now have access to the SSD or HDD and manage the data within the drives.
+
+
+Another function of the Operating System is to take care of the input and outputs of the computer. 
+This could be a few things it could be the audio input of a microphone when talking on the computer or it could be the input of a keyboard to be able to type on your PC.
+It also can control the audio output, by changing the volume of the sound coming from the speakers with the input of a keyboard or mouse.
